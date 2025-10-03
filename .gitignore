@@ -207,3 +207,6 @@ marimo/_lsp/
 __marimo__/
 dev.ipynb
 .env
+cleaned_penguin.pkl     
+cleaned_penguin1
+cleaned_penguin.csv
