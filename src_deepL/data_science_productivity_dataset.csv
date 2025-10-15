@@ -1,0 +1,301 @@
+data_scientist,task,project_type,complexity_level,tool_used,data_size_gb,deadline_days,time_hours
+Hannah,Feature_Engineering,NLP,Medium,PyTorch,3.807947176588889,19,10.21
+Diana,Data_Wrangling,NLP,High,TensorFlow,1.6445845403801216,23,10.51
+George,Data_Wrangling,Tabular,High,TensorFlow,1.0897516665982285,15,7.01
+Alice,Data_Cleaning,Vision,High,XGBoost,7.10991852018085,26,9.28
+Fatima,Model_Monitoring,Time Series,High,Scikit-learn,0.6584746323682925,28,3.94
+Diana,Model_Building,Vision,High,TensorFlow,1.9000671753502962,25,15.56
+George,Model_Building,NLP,High,TensorFlow,6.213066945314393,26,7.19
+Charlie,Data_Cleaning,Time Series,Medium,Scikit-learn,0.5619900658147927,20,4.99
+Fatima,Data_Wrangling,NLP,High,XGBoost,2.404436270260012,19,5.76
+George,Model_Deployment,Time Series,High,XGBoost,9.833985769487203,29,8.88
+Ethan,Exploratory_Analysis,Tabular,High,TensorFlow,0.5598590859279775,23,7.06
+George,Data_Cleaning,NLP,High,Scikit-learn,0.23132311548267864,29,8.67
+Diana,Feature_Engineering,Vision,High,Scikit-learn,9.659757127438137,22,13.72
+Hannah,Exploratory_Analysis,Tabular,Low,XGBoost,2.3858488736592753,19,5.0
+George,Feature_Engineering,Time Series,High,TensorFlow,6.864308836372036,16,10.17
+Bob,Exploratory_Analysis,Time Series,Medium,TensorFlow,9.102271980579943,8,7.79
+Alice,Model_Deployment,Tabular,Medium,TensorFlow,1.9041372691018172,8,4.33
+Ethan,Model_Monitoring,Vision,Medium,LightGBM,5.5124317654984685,26,2.63
+Ethan,Feature_Engineering,Time Series,Medium,LightGBM,0.41000159531003,22,8.1
+Charlie,Model_Deployment,Vision,Medium,Scikit-learn,9.226554926728857,12,7.25
+Diana,Data_Cleaning,Tabular,Medium,Scikit-learn,5.7473953466134535,29,4.69
+Diana,Model_Testing,Vision,Medium,LightGBM,5.908836540072097,29,11.59
+Bob,Data_Cleaning,Vision,Low,Scikit-learn,2.8812516459050697,17,4.68
+George,Model_Building,Vision,High,PyTorch,0.8380513724297312,11,12.69
+Alice,Model_Monitoring,Time Series,High,LightGBM,4.291674658993059,5,5.2
+Bob,Data_Cleaning,Time Series,High,XGBoost,7.317170963605775,5,7.72
+George,Feature_Engineering,Time Series,Medium,PyTorch,6.099003750332012,14,7.19
+Ethan,Data_Wrangling,Tabular,High,TensorFlow,8.644723916168376,12,7.15
+Hannah,Exploratory_Analysis,Tabular,Medium,XGBoost,4.549561673968213,5,6.31
+Charlie,Model_Testing,Time Series,High,LightGBM,3.319314888064796,7,8.4
+George,Exploratory_Analysis,Vision,Low,XGBoost,5.953848098306499,26,6.88
+Ethan,Feature_Engineering,Tabular,Medium,XGBoost,1.283983034789187,18,8.62
+Bob,Model_Testing,Tabular,Medium,LightGBM,8.50424686023423,9,9.12
+Diana,Model_Testing,NLP,High,LightGBM,4.9885764040074685,13,10.99
+Hannah,Model_Building,Time Series,Medium,XGBoost,7.135562607889295,14,7.28
+Alice,Model_Building,Vision,Low,TensorFlow,8.968059597167843,21,9.26
+George,Model_Building,Time Series,Low,Scikit-learn,3.212124212655634,8,7.16
+Hannah,Model_Monitoring,Time Series,Medium,Scikit-learn,4.162790938052734,15,3.83
+Bob,Model_Building,Time Series,High,PyTorch,2.110306124874217,17,11.42
+Fatima,Model_Building,Tabular,Medium,Scikit-learn,1.696090743814644,6,7.57
+Charlie,Exploratory_Analysis,Tabular,Low,Scikit-learn,6.281105076524553,29,5.29
+Alice,Data_Wrangling,Vision,High,XGBoost,2.2625603284466527,24,7.14
+George,Data_Cleaning,Tabular,Low,XGBoost,8.93633408505078,15,3.19
+Bob,Feature_Engineering,Tabular,Low,XGBoost,3.627348596962052,5,5.57
+George,Feature_Engineering,Time Series,High,XGBoost,2.79410926890789,29,11.2
+Bob,Model_Deployment,Time Series,Medium,XGBoost,0.16882609225878797,12,4.65
+Diana,Data_Cleaning,Time Series,Medium,PyTorch,5.387485251816876,9,3.81
+Bob,Model_Monitoring,Vision,Medium,Scikit-learn,2.5168426702529647,26,4.85
+Ethan,Feature_Engineering,Vision,Low,TensorFlow,2.2657657737733956,28,6.17
+Fatima,Model_Building,Tabular,Low,LightGBM,9.72064261893751,24,9.79
+Fatima,Feature_Engineering,Time Series,Medium,LightGBM,2.544073022102152,11,4.99
+Charlie,Exploratory_Analysis,Tabular,High,XGBoost,2.9199208943369297,21,8.21
+Fatima,Feature_Engineering,NLP,Low,LightGBM,2.7411320413253217,6,6.15
+Diana,Model_Monitoring,NLP,Medium,LightGBM,2.8585999959424533,5,3.81
+Hannah,Data_Wrangling,Tabular,Low,LightGBM,6.380078312543501,6,2.26
+Alice,Model_Testing,Vision,Medium,PyTorch,5.573641581806147,27,11.24
+Hannah,Data_Wrangling,NLP,Low,PyTorch,6.754141919318197,15,4.01
+Hannah,Model_Building,NLP,High,PyTorch,8.051083588160969,9,12.55
+Ethan,Feature_Engineering,NLP,High,XGBoost,6.359827722876437,10,15.31
+Diana,Data_Wrangling,Time Series,Low,XGBoost,8.003616737347057,13,4.71
+Fatima,Feature_Engineering,NLP,Medium,LightGBM,3.275722643220185,10,10.36
+Hannah,Model_Deployment,NLP,High,LightGBM,3.326993161498659,8,7.23
+Alice,Feature_Engineering,Vision,Low,PyTorch,0.2642195063857759,7,6.53
+Diana,Data_Cleaning,Tabular,Low,PyTorch,1.0521478558050656,13,3.98
+George,Model_Deployment,Tabular,Medium,XGBoost,6.940283607214413,11,3.84
+George,Model_Deployment,Time Series,Medium,TensorFlow,9.254466820957772,14,4.88
+Bob,Model_Monitoring,NLP,High,PyTorch,2.653622114380041,20,5.15
+Charlie,Model_Building,Vision,Low,TensorFlow,5.343540725724464,6,11.62
+Hannah,Model_Deployment,Vision,Medium,Scikit-learn,9.96291162760345,16,7.48
+Fatima,Model_Monitoring,Time Series,Low,XGBoost,1.968200372579656,13,2.83
+Hannah,Exploratory_Analysis,Vision,Low,LightGBM,3.557174788665343,20,6.83
+Hannah,Data_Wrangling,Time Series,Medium,LightGBM,4.104630458509682,5,6.08
+Alice,Model_Deployment,NLP,Low,XGBoost,6.456113296927449,15,5.08
+Bob,Exploratory_Analysis,NLP,High,LightGBM,3.785599388961257,29,13.67
+George,Exploratory_Analysis,Tabular,High,PyTorch,6.668667514169752,22,9.15
+Diana,Data_Cleaning,Time Series,Medium,PyTorch,6.9497624571576635,20,3.79
+Fatima,Feature_Engineering,Time Series,Medium,Scikit-learn,9.945128879847125,8,7.43
+Bob,Data_Wrangling,Time Series,High,XGBoost,3.321457011776751,24,8.83
+Diana,Exploratory_Analysis,Tabular,High,PyTorch,3.728040967370313,12,9.09
+Fatima,Model_Monitoring,Vision,High,XGBoost,5.726255173021169,16,6.71
+Charlie,Data_Wrangling,Time Series,Low,PyTorch,5.137259360703724,26,3.99
+Bob,Model_Building,Vision,High,XGBoost,9.732804492049212,17,13.52
+Alice,Data_Cleaning,Tabular,Low,XGBoost,4.918747314298606,12,4.36
+George,Data_Wrangling,Tabular,Low,XGBoost,5.076107221741402,19,4.88
+Fatima,Exploratory_Analysis,Tabular,Low,XGBoost,4.975925168806753,9,5.27
+Alice,Exploratory_Analysis,NLP,Medium,XGBoost,5.762841572170912,21,5.51
+Charlie,Feature_Engineering,Time Series,High,Scikit-learn,0.5316773403688941,16,9.66
+Hannah,Data_Cleaning,Vision,Medium,Scikit-learn,0.25302050363578754,28,5.97
+Charlie,Model_Monitoring,Vision,Medium,XGBoost,3.374428016238086,18,3.79
+Charlie,Model_Testing,Time Series,Low,XGBoost,3.9124675131590605,27,6.58
+Diana,Data_Cleaning,Vision,High,LightGBM,2.757901083212553,7,7.44
+Fatima,Feature_Engineering,NLP,Low,XGBoost,9.367932264191731,7,5.99
+Bob,Model_Deployment,Vision,Low,PyTorch,5.743605583884713,28,5.23
+Diana,Exploratory_Analysis,Vision,Medium,LightGBM,3.6506031348320227,14,6.56
+George,Data_Wrangling,Vision,Low,LightGBM,8.785993412086759,21,6.66
+Charlie,Model_Deployment,NLP,Low,PyTorch,3.0354504221132053,7,5.52
+Diana,Data_Cleaning,Time Series,Low,XGBoost,2.6364487415851348,28,3.72
+George,Model_Building,Vision,Low,TensorFlow,5.065011317403276,17,10.76
+George,Model_Testing,Time Series,Low,TensorFlow,2.023312139769218,12,6.54
+Alice,Feature_Engineering,NLP,High,TensorFlow,8.911052883993907,27,14.54
+Bob,Model_Monitoring,NLP,High,LightGBM,0.3734060415496766,6,4.87
+Diana,Feature_Engineering,Time Series,Low,Scikit-learn,0.45582851058774665,29,5.15
+Bob,Model_Testing,NLP,Medium,Scikit-learn,1.6349120056046675,26,6.82
+Charlie,Exploratory_Analysis,Time Series,High,PyTorch,0.4697470686172227,10,8.8
+Diana,Model_Testing,Time Series,Low,LightGBM,3.1023285952649062,15,5.68
+Ethan,Data_Cleaning,NLP,Low,LightGBM,7.722936175676248,16,3.48
+Fatima,Model_Testing,Tabular,Medium,Scikit-learn,9.65599312086862,11,10.58
+Hannah,Model_Deployment,Tabular,Medium,XGBoost,6.410556024832244,24,6.18
+Diana,Feature_Engineering,Tabular,High,PyTorch,1.4141796802054012,22,5.57
+Charlie,Feature_Engineering,Time Series,Medium,Scikit-learn,7.972343328210166,23,9.26
+Fatima,Data_Wrangling,Vision,Low,LightGBM,4.445817064985797,27,4.83
+Charlie,Feature_Engineering,Tabular,Low,LightGBM,0.900642369510257,13,5.04
+Bob,Model_Building,Vision,High,LightGBM,6.916149017577127,5,14.36
+Charlie,Model_Building,NLP,Medium,TensorFlow,2.5774046918294937,26,9.45
+Fatima,Model_Testing,NLP,High,LightGBM,7.174499634730617,12,11.1
+Ethan,Model_Testing,Tabular,Medium,TensorFlow,5.21529294852301,9,7.39
+Ethan,Exploratory_Analysis,Time Series,Low,TensorFlow,6.156035387720087,27,6.03
+Fatima,Model_Building,Time Series,High,Scikit-learn,1.6705998316606614,26,10.42
+Charlie,Model_Deployment,Time Series,High,PyTorch,0.2424955374345831,18,6.55
+Bob,Exploratory_Analysis,NLP,Low,Scikit-learn,3.528412778785068,9,6.91
+Alice,Exploratory_Analysis,Vision,High,XGBoost,4.045196870533997,14,10.96
+Alice,Model_Building,Time Series,High,LightGBM,5.439836739160619,17,14.6
+Fatima,Model_Deployment,NLP,High,Scikit-learn,1.713050828106154,28,6.9
+Diana,Feature_Engineering,Time Series,Low,Scikit-learn,8.029398017355758,16,8.47
+Bob,Exploratory_Analysis,Tabular,High,XGBoost,3.942882269444567,5,12.01
+Hannah,Exploratory_Analysis,Time Series,High,LightGBM,9.4205016068876,7,6.22
+Charlie,Model_Monitoring,Time Series,High,Scikit-learn,8.222225753335554,12,4.51
+Bob,Model_Building,Time Series,Medium,Scikit-learn,3.257858739908237,14,9.76
+Bob,Model_Testing,Time Series,High,TensorFlow,0.33039216378467606,6,8.59
+Diana,Exploratory_Analysis,NLP,Low,Scikit-learn,6.959614551050199,22,4.31
+Bob,Feature_Engineering,Vision,Low,TensorFlow,6.3265341831208515,28,9.53
+Diana,Feature_Engineering,Time Series,Low,PyTorch,2.8921422684559346,14,7.34
+Diana,Data_Wrangling,Tabular,High,Scikit-learn,4.292362328850373,28,4.53
+Bob,Exploratory_Analysis,Time Series,High,TensorFlow,7.786488311345769,28,7.5
+Diana,Data_Wrangling,Tabular,Low,XGBoost,8.68445441137625,9,5.41
+Alice,Model_Monitoring,Time Series,Medium,Scikit-learn,7.425096728429008,7,2.95
+Hannah,Model_Monitoring,Vision,Low,XGBoost,1.120926301475733,21,2.98
+Bob,Model_Deployment,Vision,High,Scikit-learn,3.9572190535701144,17,12.04
+Hannah,Feature_Engineering,Time Series,High,Scikit-learn,8.965679962112384,21,10.83
+Charlie,Data_Cleaning,Tabular,Low,LightGBM,9.572328762751917,24,4.56
+Hannah,Exploratory_Analysis,Time Series,High,TensorFlow,5.777035092420532,19,11.72
+Alice,Model_Monitoring,Vision,Medium,LightGBM,2.2060061607398667,25,5.82
+Bob,Model_Testing,Tabular,High,TensorFlow,7.9366325328859,29,12.32
+Charlie,Model_Building,Time Series,Low,TensorFlow,9.689654245343936,13,9.08
+Bob,Model_Building,Vision,Low,LightGBM,7.638955254002975,16,9.7
+Hannah,Model_Building,Tabular,Low,TensorFlow,4.318305602964717,12,7.04
+George,Model_Deployment,Tabular,High,Scikit-learn,0.8203537630055159,22,3.61
+Fatima,Model_Building,Time Series,Medium,XGBoost,5.854923630545144,17,9.99
+Hannah,Model_Deployment,Time Series,Low,TensorFlow,3.76935725596222,24,4.0
+Ethan,Data_Wrangling,Vision,Medium,TensorFlow,5.959698514330715,8,7.0
+Ethan,Data_Cleaning,Vision,Low,XGBoost,3.824969896756066,23,4.76
+Alice,Model_Monitoring,Tabular,Medium,Scikit-learn,4.299797891545065,23,4.22
+Diana,Exploratory_Analysis,Time Series,Low,PyTorch,1.2008550748308984,7,4.79
+Diana,Data_Cleaning,NLP,High,Scikit-learn,5.757582949529605,24,4.88
+George,Data_Cleaning,Vision,Low,TensorFlow,1.276297371053912,13,4.98
+Ethan,Model_Building,Tabular,Low,Scikit-learn,2.4513140657954526,29,8.24
+Charlie,Data_Wrangling,Time Series,Medium,LightGBM,3.8112187372846704,21,5.99
+Diana,Model_Building,Vision,Medium,Scikit-learn,4.419724732904904,16,9.41
+Fatima,Data_Wrangling,NLP,Medium,PyTorch,9.781216620667282,17,7.5
+Charlie,Data_Cleaning,Time Series,Medium,TensorFlow,0.8305859908804487,7,4.48
+Charlie,Data_Cleaning,NLP,High,LightGBM,6.98457011875581,29,10.35
+Bob,Model_Deployment,Vision,High,Scikit-learn,6.98791202094771,5,8.33
+Diana,Model_Testing,NLP,High,Scikit-learn,6.312824992832228,26,13.57
+Alice,Data_Wrangling,Tabular,Low,Scikit-learn,9.161017982524152,14,4.07
+Diana,Data_Cleaning,NLP,High,Scikit-learn,9.509073692357932,12,6.13
+Ethan,Data_Cleaning,Vision,Medium,PyTorch,3.4230346414899357,8,5.3
+Ethan,Model_Building,NLP,High,LightGBM,4.690614208905823,22,11.47
+Bob,Feature_Engineering,Vision,Low,LightGBM,2.673503642257201,26,5.62
+Alice,Data_Wrangling,NLP,High,LightGBM,0.4199279159855396,13,9.36
+Charlie,Model_Testing,Tabular,High,Scikit-learn,6.878838608283405,17,7.85
+Charlie,Model_Deployment,Time Series,Medium,LightGBM,9.118179126489041,10,3.83
+George,Data_Wrangling,Vision,Medium,XGBoost,9.33401198520473,22,10.54
+Diana,Model_Monitoring,Vision,Medium,Scikit-learn,5.560719938186294,9,4.27
+Bob,Model_Building,Tabular,Medium,Scikit-learn,8.124477974740145,19,8.77
+Bob,Model_Building,NLP,Low,LightGBM,1.589127221924929,25,6.95
+Ethan,Model_Testing,Time Series,Medium,TensorFlow,8.308725784994493,21,9.91
+Bob,Model_Building,Tabular,Medium,XGBoost,8.399454176640266,6,9.98
+Fatima,Model_Deployment,Tabular,Low,Scikit-learn,7.524116419752721,7,5.09
+Ethan,Model_Monitoring,Vision,Medium,TensorFlow,5.598773885466011,9,5.14
+Bob,Model_Building,NLP,High,LightGBM,3.840720437830286,25,15.62
+Charlie,Model_Deployment,Time Series,Medium,PyTorch,4.560386939569925,18,3.99
+Alice,Model_Monitoring,Vision,Low,LightGBM,2.151553725179759,5,2.64
+Hannah,Data_Wrangling,Time Series,Low,Scikit-learn,6.749836775617982,6,4.17
+Charlie,Exploratory_Analysis,Time Series,High,Scikit-learn,6.748574636368716,6,9.15
+Diana,Exploratory_Analysis,NLP,Low,LightGBM,4.81448589821124,7,7.8
+Ethan,Model_Testing,Tabular,High,TensorFlow,5.563877703867407,9,8.79
+Hannah,Model_Building,Tabular,Low,PyTorch,0.9752414113199012,29,5.79
+Alice,Data_Cleaning,Vision,Low,LightGBM,4.263304208784243,9,6.81
+Hannah,Data_Wrangling,Vision,Low,Scikit-learn,6.2410645583993,6,6.09
+Charlie,Model_Testing,NLP,Low,LightGBM,6.120069710464663,22,6.53
+Fatima,Exploratory_Analysis,Vision,High,LightGBM,3.98321604648735,23,10.36
+Hannah,Exploratory_Analysis,NLP,Low,Scikit-learn,5.188495942682127,28,7.27
+Alice,Model_Monitoring,Time Series,Low,XGBoost,9.113665656192403,27,4.31
+Charlie,Exploratory_Analysis,NLP,High,Scikit-learn,7.985070579171385,14,11.35
+Bob,Model_Deployment,Tabular,Low,TensorFlow,9.273217489098794,14,3.89
+Fatima,Data_Cleaning,NLP,Medium,Scikit-learn,3.539392741431601,15,4.64
+Fatima,Exploratory_Analysis,Tabular,High,Scikit-learn,5.83853435127021,15,9.35
+Fatima,Data_Wrangling,Time Series,High,XGBoost,1.900612835551534,28,6.03
+George,Model_Monitoring,Tabular,High,XGBoost,4.175446022139528,7,4.62
+Charlie,Feature_Engineering,Tabular,High,Scikit-learn,6.059160415855506,23,10.23
+Ethan,Data_Wrangling,NLP,Medium,XGBoost,0.5045993010381408,9,4.51
+Charlie,Exploratory_Analysis,NLP,High,Scikit-learn,0.4148663467031348,10,6.98
+Fatima,Model_Deployment,Vision,Medium,LightGBM,1.2942951238959481,13,6.17
+George,Model_Testing,NLP,Medium,Scikit-learn,1.3746091431664749,17,6.97
+Bob,Model_Monitoring,Time Series,High,XGBoost,3.2836693703322872,29,6.37
+Fatima,Model_Deployment,Time Series,High,PyTorch,5.165404434117886,15,6.06
+Alice,Feature_Engineering,NLP,Medium,XGBoost,9.216636765264951,21,11.64
+Alice,Model_Testing,NLP,Low,LightGBM,7.507770934798217,24,5.8
+Bob,Exploratory_Analysis,Vision,High,LightGBM,2.172558301033432,28,15.6
+Hannah,Model_Building,Tabular,Medium,PyTorch,3.752245031740747,28,8.07
+Alice,Data_Cleaning,Tabular,Low,XGBoost,7.233109007775502,18,4.3
+Fatima,Data_Wrangling,Time Series,Low,TensorFlow,7.521200696885015,17,5.54
+George,Data_Cleaning,Time Series,Low,PyTorch,8.685428312639761,10,2.8
+Diana,Model_Building,NLP,High,LightGBM,2.765507986398872,9,13.71
+Hannah,Model_Deployment,Vision,Medium,TensorFlow,1.904610396911985,11,4.25
+Ethan,Data_Wrangling,Time Series,Low,PyTorch,3.3422237865613553,16,4.08
+George,Data_Cleaning,Vision,Medium,XGBoost,2.4088424743430323,17,7.29
+George,Feature_Engineering,Time Series,High,XGBoost,7.912795262212649,17,13.64
+Ethan,Feature_Engineering,Time Series,Low,TensorFlow,4.847862807367076,8,9.97
+Diana,Feature_Engineering,NLP,Medium,TensorFlow,7.479850794424867,21,11.62
+Alice,Feature_Engineering,Time Series,Low,XGBoost,5.6881395709741485,14,5.66
+Charlie,Data_Wrangling,Time Series,Low,LightGBM,6.494580689182852,6,3.6
+Alice,Model_Monitoring,NLP,Medium,XGBoost,2.51909623910008,17,4.16
+Ethan,Model_Deployment,Vision,High,Scikit-learn,0.1745901950273399,25,6.52
+Diana,Model_Deployment,Tabular,High,XGBoost,1.6133054779248872,27,6.64
+Fatima,Data_Wrangling,Tabular,Medium,TensorFlow,0.9700874829474243,28,5.05
+Alice,Feature_Engineering,Tabular,Low,TensorFlow,8.97797770380161,27,6.84
+Bob,Model_Deployment,Tabular,Low,XGBoost,9.182216569546764,19,4.48
+Hannah,Feature_Engineering,Time Series,Medium,TensorFlow,8.189013502397872,21,12.18
+Fatima,Feature_Engineering,NLP,Low,Scikit-learn,8.22652858421819,6,7.71
+Diana,Model_Building,Time Series,High,LightGBM,5.611952640837905,12,15.88
+Charlie,Model_Testing,Time Series,Medium,PyTorch,2.1302678454796453,26,6.76
+Ethan,Data_Wrangling,NLP,Low,Scikit-learn,7.138429540483808,24,3.7
+Fatima,Exploratory_Analysis,Vision,High,TensorFlow,1.236884564918115,18,10.49
+Hannah,Model_Monitoring,Time Series,Low,LightGBM,2.957442477078532,9,3.22
+Fatima,Model_Building,Vision,Medium,LightGBM,3.2743577023791914,7,11.1
+Hannah,Model_Deployment,Tabular,Medium,LightGBM,0.6130530145420264,22,5.72
+Hannah,Exploratory_Analysis,Time Series,Medium,LightGBM,5.534327600900875,6,4.48
+Hannah,Model_Monitoring,NLP,Low,PyTorch,3.2913030652497577,6,4.54
+Ethan,Model_Deployment,Vision,High,PyTorch,7.9634655546679785,21,6.89
+Charlie,Data_Wrangling,Tabular,High,PyTorch,8.522201854162901,16,8.65
+Fatima,Exploratory_Analysis,NLP,Low,LightGBM,9.910201816928167,6,6.7
+Charlie,Model_Deployment,Time Series,Low,LightGBM,1.8942073550400356,7,3.79
+Hannah,Data_Wrangling,Vision,Low,TensorFlow,0.5761369752444682,12,5.63
+Ethan,Model_Monitoring,Tabular,High,TensorFlow,8.29661478305717,9,4.1
+Bob,Model_Monitoring,Tabular,Medium,PyTorch,1.7262313995168304,9,2.84
+Ethan,Model_Deployment,NLP,Medium,XGBoost,2.433348286043498,18,2.81
+Alice,Model_Testing,Time Series,Low,LightGBM,8.784285354049771,29,6.66
+Diana,Exploratory_Analysis,Tabular,Low,XGBoost,6.861522427829611,12,3.23
+Alice,Exploratory_Analysis,Vision,High,PyTorch,4.680529878129104,10,8.85
+Diana,Data_Wrangling,Time Series,Low,XGBoost,5.443832512954867,19,3.06
+George,Model_Building,Vision,Medium,LightGBM,3.9756728909948693,6,13.47
+Alice,Model_Deployment,Time Series,Low,LightGBM,5.481173325028487,12,4.09
+Bob,Model_Testing,Vision,High,Scikit-learn,4.372128617050782,7,7.65
+Bob,Feature_Engineering,NLP,Medium,PyTorch,6.314309725407036,12,7.79
+Diana,Data_Cleaning,Vision,Low,LightGBM,8.798428242197039,5,5.39
+George,Exploratory_Analysis,Time Series,High,Scikit-learn,5.3812648105655825,11,11.08
+George,Model_Building,Tabular,Low,Scikit-learn,7.807862196602436,5,8.89
+Diana,Exploratory_Analysis,Time Series,Medium,XGBoost,0.4319711038842159,26,6.59
+George,Exploratory_Analysis,Time Series,High,PyTorch,7.570889389415154,26,13.52
+Alice,Exploratory_Analysis,Time Series,Low,TensorFlow,8.230447316252928,19,7.73
+Charlie,Model_Monitoring,Time Series,High,LightGBM,1.5841825307528605,19,4.03
+Diana,Feature_Engineering,Tabular,High,XGBoost,4.148656253146383,17,11.57
+Fatima,Data_Wrangling,Vision,High,Scikit-learn,6.9700896002242905,8,12.24
+Ethan,Feature_Engineering,Time Series,High,TensorFlow,7.190172839856227,9,8.75
+Hannah,Data_Cleaning,Time Series,High,LightGBM,4.29360893796278,18,5.37
+Bob,Model_Deployment,Vision,Low,TensorFlow,6.188007605211279,17,5.49
+George,Feature_Engineering,Tabular,Medium,TensorFlow,5.970332762062333,16,6.37
+Charlie,Model_Building,Time Series,Low,TensorFlow,5.694818517533168,8,9.73
+Alice,Model_Deployment,NLP,Low,Scikit-learn,3.806910160232178,13,4.69
+Bob,Model_Building,NLP,High,Scikit-learn,4.298893645893622,18,10.87
+Hannah,Data_Wrangling,Time Series,Low,Scikit-learn,9.849927869727113,18,5.13
+Alice,Model_Building,Tabular,Low,Scikit-learn,1.944576706991795,27,10.02
+Bob,Model_Building,Time Series,Low,Scikit-learn,4.050126768314289,13,8.41
+Fatima,Data_Cleaning,Vision,High,XGBoost,7.468071553248559,14,6.2
+Ethan,Feature_Engineering,Time Series,High,Scikit-learn,5.420216469085436,15,7.42
+Ethan,Data_Wrangling,NLP,High,TensorFlow,9.237306294805,11,11.59
+Diana,Model_Building,Time Series,Medium,Scikit-learn,4.576957614809091,15,8.03
+Diana,Feature_Engineering,Tabular,Medium,LightGBM,0.4251820354100396,23,7.73
+Bob,Model_Building,Time Series,High,XGBoost,1.738581842536941,25,8.22
+Bob,Model_Monitoring,Tabular,High,Scikit-learn,9.15697442057419,21,3.95
+Diana,Model_Deployment,NLP,Medium,TensorFlow,2.2789624194028613,22,5.93
+Alice,Feature_Engineering,Tabular,Low,TensorFlow,6.669019982965435,11,6.3
+Fatima,Model_Deployment,Vision,Low,XGBoost,5.617323152011474,26,5.02
+George,Model_Deployment,Time Series,High,LightGBM,0.9449617139785742,12,8.83
+Bob,Data_Cleaning,Tabular,Low,PyTorch,0.7640571261454321,27,3.29
+Charlie,Model_Testing,NLP,Medium,XGBoost,4.325210162833819,28,7.64
+George,Data_Wrangling,NLP,Medium,PyTorch,1.9878084345702993,17,6.43
+Diana,Data_Wrangling,Vision,High,PyTorch,3.8394868796576764,20,7.8
+Charlie,Model_Monitoring,NLP,Medium,Scikit-learn,7.777723405280605,19,4.25
+Fatima,Model_Testing,Time Series,High,TensorFlow,5.323712528433379,26,5.55
+Alice,Model_Monitoring,NLP,High,Scikit-learn,5.640439279951357,8,3.92
+Charlie,Exploratory_Analysis,NLP,Medium,LightGBM,1.9010884919031843,27,7.25
+Charlie,Model_Monitoring,Tabular,Medium,PyTorch,2.7803722641211825,18,3.5
+George,Model_Monitoring,Time Series,Medium,PyTorch,5.313126819927008,5,4.33
+Ethan,Data_Wrangling,Time Series,Low,PyTorch,0.3682503257844866,27,5.56
+Ethan,Exploratory_Analysis,Tabular,Low,PyTorch,2.6134967840287127,27,5.15
+Ethan,Model_Deployment,Vision,Medium,TensorFlow,1.8675921543379028,5,5.25
+Bob,Data_Wrangling,NLP,High,Scikit-learn,5.611543689355324,12,8.26
+Bob,Data_Wrangling,Time Series,Medium,XGBoost,7.250442625371026,28,5.83
